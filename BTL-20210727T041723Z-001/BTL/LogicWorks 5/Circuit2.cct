@@ -1,0 +1,12 @@
+Circuit2   Thursday, November 25, 2010   4:32 PM
+*
+* The following lines are derived from the design's Spice attribute field.
+* To change these, deselect all circuit elements, select the Get Info command,
+* and click the Design Attributes button.
+*
+
+*
+* Following is the listing of all devices in the circuit and their SPICE parameters.
+* To set the SPICE parameters, right-click on a device and select the Attributes command.
+*
+.END
